@@ -6,4 +6,4 @@ The order of these notebooks as part of the course is as follows --
 2. Multiple Regression
 3. Naive Bayes
 4. Decision Tree (and Random Forest)
-5. SVC (SVM)
+5. SVC (SVM - Support Vector Machines)
