@@ -7,3 +7,4 @@ The order of these notebooks as part of the course is as follows --
 3. Naive Bayes
 4. Decision Tree (and Random Forest)
 5. SVC (SVM -- Support Vector Machines)
+6. SimilarMovies (Recommender systems)
